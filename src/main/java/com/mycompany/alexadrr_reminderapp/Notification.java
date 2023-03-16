@@ -9,5 +9,11 @@ package com.mycompany.alexadrr_reminderapp;
  * @author arzaq
  */
 public class Notification {
-    
+     private int id;
+    private String title;
+    private String message;
+    private int icon;
+    private Date timestamp;
+    private Priority priority;
+    private NotificationAction action;
 }
