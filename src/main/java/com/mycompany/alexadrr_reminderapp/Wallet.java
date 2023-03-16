@@ -8,6 +8,6 @@ package com.mycompany.alexadrr_reminderapp;
  *
  * @author arzaq
  */
-public class Wallet {
+public class Wallet extends User{
     
 }

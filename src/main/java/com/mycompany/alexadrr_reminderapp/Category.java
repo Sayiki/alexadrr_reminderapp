@@ -9,5 +9,11 @@ package com.mycompany.alexadrr_reminderapp;
  * @author arzaq
  */
 public class Category {
+    int id;
+    String name;
+    String description;
+    String color;
+    String icon;
+    
     
 }
