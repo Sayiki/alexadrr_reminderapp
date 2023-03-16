@@ -12,6 +12,7 @@ package com.mycompany.alexadrr_reminderapp;
 public class Alexadrr_reminderapp {
 
     public static void main(String[] args) {
-        System.out.println("shit");
+        System.out.println("test");
+
     }
 }
